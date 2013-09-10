@@ -22,7 +22,7 @@ beauty and clarity of mathematical thinking and after being introduced
 to the paradigm of functional programming, I felt the second "aha"
 moment in my life and pieces started coming together.
 
-Simplicity is not easy but is well worth the trouble.
+[Simplicity might not easy](http://www.infoq.com/presentations/Simple-Made-Easy) but is well worth the trouble.
 
 I put up [some code examples](GALLERY.md). Some of them are in private repositories, so please create
 github.com and bitbucket.org accounts and let me know your email so I can grant you
@@ -32,7 +32,7 @@ Freelance Career
 ----------------
 
 In 2002 I started working as freelance developer, content creator and
-consultant for various Sloveninan companies.
+consultant for various customers.
 
 ### 2012-2013 Outfit 7
 
@@ -41,7 +41,7 @@ In november I signed a consultancy contract with Ekipa 2 d.o.o.
 projects including:
 
 -   online store on shopify
-    ([www.talkingfrineds.com](http://www.talkingfrineds.com))
+    ([www.talkingfriends.com](http://www.talkingfriends.com))
 -   dynamic parts of web site
     [www.tfsuperstar.com](http://www.tfsuperstar.com)
 -   design and implementation of online interactive blog
@@ -197,19 +197,11 @@ Languages/technologies:  PHP, Java, MySql, Apache
 
 ## Education
 
-University degree in electrical engineering
+University degree in electrical engineering at [Faculty of Electrical Engineering - University of Ljubljana](http://www.fe.uni-lj.si/eng/)
 
-Faculty of Electrical Engineering - Univerza v Ljubljani
+Driving Licence: B/Clean
 
-Driving Licence
-
-B/Clean
-
-Health
-
-Excellent
-
-Interests
+## Interests
 
 I am an avid runner and a passionate fiction reader.  Occasionally I do
 other sports as biking, free climbing, swimming and hiking.
