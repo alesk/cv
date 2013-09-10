@@ -10,29 +10,36 @@ Email/gtalk: [ales.kotnik@gmail.com](mailto:ales.kotnik@gmail.com)
 
 Skype: aleskotnik
 
-When first encountered with personal computer in 1982 at the age of 10,
-I felt deep inside me it will have a strong influence in my life. During
+When first encountered with a personal computers in 1982 at the age of 10,
+I felt instantly this little machines would strongly influence my life. During
 the years, this enchantment at the first sight turned to a long lasting
 passion, to [ikigai](http://en.wikipedia.org/wiki/Ikigai). Through my
 long and dynamic professional career I took various system
-administration and software developer positions. I developed a strong
-aversion against the unnecessary (incidental) artificial complexity we
-tend to present when solving real world problems. I always admired the
+administration and software developer positions. 
+
+I developed a strong aversion against the unnecessary (incidental) complexity we
+often tend to invent when solving real world problems. I always admired the
 beauty and clarity of mathematical thinking and after being introduced
 to the paradigm of functional programming, I felt the second "aha"
-moment in my life and pieces started coming together.
+moment.
 
-[Simplicity might not easy](http://www.infoq.com/presentations/Simple-Made-Easy) but is well worth the trouble.
+Besides simplicity, I strongly belive in hard work, in the need of permanent education,
+and that word 'giftedness' is a wrongly percieved, misleading concept hiding beneath years of deliberate training, 
+  abundance of failures, almost pathological self-criticism, stubbornnes, and 
+  a bunch of senior giants kindly letting one stand on their shoulders.
+
+I enjoy working with honest, open minded people which value common goal above the individual interests.
+
+[Simplicity might not be easy](http://www.infoq.com/presentations/Simple-Made-Easy) but is well worth the trouble.
 
 I put up [some code examples](GALLERY.md). Some of them are in private repositories, so please create
 github.com and bitbucket.org accounts and let me know your email so I can grant you
 access to private repositories.
 
-Freelance Career
-----------------
+## Freelance Career
 
 In 2002 I started working as freelance developer, content creator and
-consultant for various customers.
+consultant.
 
 ### 2012-2013 Outfit 7
 
