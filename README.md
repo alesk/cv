@@ -24,6 +24,10 @@ moment in my life and pieces started coming together.
 
 Simplicity is not easy but is well worth the trouble.
 
+I put up [some code examples](GALLERY.md). Some of them are in private repositories, so please create
+github.com and bitbucket.org accounts and let me know your email so I can grant you
+access to private repositories.
+
 Freelance Career
 ----------------
 
