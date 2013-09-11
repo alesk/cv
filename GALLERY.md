@@ -16,6 +16,27 @@ Url of the repository: [git@bitbucket.org:akotnik/draagle-client.git](git@bitbuc
 This is a private repository, so please, if ypou want to access it, create account at [bitbucket.org](http:/www.bitbucket.org)
 and send me your email so I can issue Repository invitation for you.
 
+## ROA (Register of Obstetrical Analgesias)
+
+A Register of obstetrical analgesias in use in Slovenian nurseries.
+Application provides guided data entry and basic statistics. This project
+demonstrates the following skills:
+
+  - javascript/coffeescript programing
+  - automating development and deployment tasks with grunt
+  - knowledge of Angular.js
+  - application of REST service
+
+![roa](img/roa.png)
+
+Installation:
+
+    git clone git@bitbucket.org:akotnik/draagle-roa.git
+    cd draagle-roa
+    npm install && bower install && grunt server
+
+Url of the repository: [https://bitbucket.org/akotnik/draagle-roa](https://bitbucket.org/akotnik/draagle-roa)
+
 ## Die-der-das
 
 Die-der-das a game helping to remember definite articles of german nouns. It is written in `javascript` and exposed as a native
