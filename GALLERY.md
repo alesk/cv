@@ -9,7 +9,7 @@ Draagle Client is a client application for drugs database Draagle. It is written
 and using google closure toolchain for code optimisation. Latest production code is deployed at
 the site [www.draagle.com](http://www.draagle.com)
 
-![draagle-client](img/draagle-client.jpg)
+![draagle-client](img/draagle-client.png)
 
 Url of the repository: [git@bitbucket.org:akotnik/draagle-client.git](git@bitbucket.org:akotnik/draagle-client.git)
 
@@ -20,6 +20,8 @@ and send me your email so I can issue Repository invitation for you.
 
 Die-der-das a game helping to remember definite articles of german nouns. It is written in `javascript` and exposed as a native
 iOS and android application using [Adobes's Phonegap](http://phonegap.com/).
+
+![Die-der-das](img/diederdas.png)
 
 Repository url: [https://bitbucket.org/akotnik/diederdas3](https://bitbucket.org/akotnik/diederdas3)
 
@@ -49,6 +51,8 @@ Repository url: [github.com/alesk/videobrowser](https://github.com/alesk/videobr
 
 This is Live Android Wallpaper featuring Xmass Fireplace Sceene. It is written in Java and is composed from tiny animation
 engine and skeleton for android's live wallpaper.
+
+![Xmass Live Wallpaper](img/xmass-wallpaper.png)
 
 The artwork is proprietary, created by Andrej Dušič, so I can't licence it as open source. 
 
