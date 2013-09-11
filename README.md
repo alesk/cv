@@ -12,8 +12,8 @@ Skype: aleskotnik
 
 When first encountered with a personal computers in 1982 at the age of 10,
 I felt instantly this little machines would strongly influence my life. During
-the years, this enchantment at the first sight turned to a long lasting
-passion, to [ikigai](http://en.wikipedia.org/wiki/Ikigai). Through my
+the years, this enchantment at the first sight turned to a [long lasting
+passion](http://en.wikipedia.org/wiki/Ikigai). Through my
 long and dynamic professional career I took various system
 administration and software developer positions. 
 
@@ -23,12 +23,12 @@ beauty and clarity of mathematical thinking and after being introduced
 to the paradigm of functional programming, I felt the second "aha"
 moment.
 
-Besides simplicity, I strongly belive in hard work, in the need of permanent education,
-and that word 'giftedness' is a wrongly percieved, misleading concept hiding beneath years of deliberate training, 
-  abundance of failures, almost pathological self-criticism, stubbornnes, and 
-  a bunch of senior giants kindly letting one stand on their shoulders.
+Besides simplicity, I strongly belive in hard work, in the need of permanent education
+and that word 'giftedness' is mostly a misleading superstisious concept wrapped around the 
+years of passionate deliberate training, abundance of failures, almost pathological self-criticism, stubbornnes, and 
+a bunch of senior giants kindly letting one stand on their shoulders.
 
-I enjoy working with honest, open minded people which value common goal above the individual interests.
+I enjoy working with honest, open minded people which value common goals above their individual interests.
 
 [Simplicity might not be easy](http://www.infoq.com/presentations/Simple-Made-Easy) but is well worth the trouble.
 
