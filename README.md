@@ -10,6 +10,12 @@ Email/gtalk: [ales.kotnik@gmail.com](mailto:ales.kotnik@gmail.com)
 
 Skype: aleskotnik
 
+Linkedin: http://si.linkedin.com/pub/ale%C5%A1-kotnik/23/976/234/
+
+Github: https://github.com/alesk
+
+Bitbucket: https://bitbucket.org/akotnik
+
 ---
 
 When first encountered with a personal computer in 1982 at the age of 10,
@@ -25,13 +31,24 @@ immediately resonated with me.
 
 Besides the clarity of thought and simplicity I strongly worship hard work and the need of permanent education
 and I belive that word 'giftedness' is mostly a misleading superstisious concept wrapped around the 
-years of passionate deliberate training, abundance of failures, almost pathological self-criticism, stubbornnes and 
+years of passionate deliberate training, abundance of failures, healhty dose of self-criticism, stubbornnes and 
 a bunch of senior giants kindly letting one stand on their shoulders.
 
 I enjoy working with honest, open minded people which value common goals above their individual interests.
 
-I put up [some code examples](GALLERY.md). Some of them are in private repositories, so please create
-github.com and bitbucket.org accounts and let me know your email so I can grant you the access.
+I put up [some code examples](GALLERY.md). Not all repositories are public, so please create
+github.com and bitbucket.org accounts and let me know your email so I can grant you access to the private ones.
+
+## Skills cheatsheet
+
+|Category| Skills|
+|--------|-------|
+|Foreign languages| English (fluently), Croatina/Serbian (fluently), German|
+|Programing languages in order of fluency| Javascript/Coffescript, Python, Clojure, Java, C, Objective C, Bash scripting, Ruby, C++, SQL, Datalog, PHP, ClojureScript, R, Mathlab|
+|Familiarity with operating systems| Linux, OSX, Android, iOS, Windows |
+|Databases| Mysql, Postgres Sql, Db2, MS Sql, Mongdodb, Datomic|
+|Data transfer protocols| json, edn, xml/xsl|
+|Other technologies/products| ZeroMQ, RabbitMQ, Websphere MQ, Websphere App Server, Jetty, Lucene, Solr, ElasitcSearch, WSDL, odata, Nginx, Apache Web Server, Google App engine, Amazon s3, Heroku, Karma, Jasmine, Ruby on Rails, Django, Ingenico OS|
 
 ## Freelance Career
 
