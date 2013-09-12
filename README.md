@@ -48,7 +48,7 @@ github.com and bitbucket.org accounts and let me know your email, so I can grant
 |Programing languages in order of fluency| Javascript/Coffescript, Python, Clojure/Lisp, ClojureScript, Java, C, Objective C, SQL, Bash scripting, Ruby, C++, C#, PHP, Datalog, Perl, R, Mathlab, Haskell, Erlang, Pascal/Delphi|
 |Familiarity with operating systems| Linux, OSX, Android, iOS, Windows |
 |Databases| Mysql, Postgres Sql, Db2, MS Sql, Mongdodb, Datomic, Paradox, Informix, Access|
-|Other technologies/products| digital security/cryptography, grunt, jQuery, Photoshop, Flash, Illustrator, Google closure tools, json, EDN, HTML, css, less, sass, nodejs, angulaarjs, XML/XSL, ZeroMQ, RabbitMQ, Websphere MQ, Websphere App Server, Jetty, Lucene/Solr/ElasitcSearch, WSDL, odata, Nginx, Apache Web Server, Google App engine, Amazon s3, Heroku, Karma, Jasmine, Ruby on Rails, Django, Ingenico OS|
+|Other technologies/products| digital security/cryptography, grunt, jQuery, Photoshop, Flash, Illustrator, Google closure tools, json, EDN, HTML, css, less, sass, nodejs, angulaarjs, XML/XSL, ZeroMQ, RabbitMQ, Websphere MQ, Websphere App Server, Jetty, Lucene/Solr/ElasitcSearch, WSDL, odata, Nginx, Apache Web Server, Google App engine, Amazon s3, Heroku, Karma, Jasmine, Ruby on Rails, Django, Ingenico OS, git, subversion, mercurial, Unix System Administration, networking, iptables|
 
 ## Freelance Career
 
