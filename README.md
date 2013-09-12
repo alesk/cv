@@ -1,40 +1,37 @@
-# Curriculum Vitae
+# Aleš Kotnik - Curriculum Vitae
 
-Aleš Kotnik
+## Contatc information
 
-Ramovševa 65, 1000 Ljubljana, Slovenia
+Home address: Ramovševa 65, 1000 Ljubljana, Slovenia
 
-Telephone: +386 31 264 135
+Mobile phone: +386 31 264 135
 
 Email/gtalk: [ales.kotnik@gmail.com](mailto:ales.kotnik@gmail.com)
 
 Skype: aleskotnik
 
-When first encountered with a personal computers in 1982 at the age of 10,
-I felt instantly this little machines would strongly influence my life. During
-the years, this enchantment at the first sight turned to a [long lasting
-passion](http://en.wikipedia.org/wiki/Ikigai). Through my
-long and dynamic professional career I took various system
-administration and software developer positions. 
+---
 
-I developed a strong aversion against the unnecessary (incidental) complexity we
-often tend to invent when solving real world problems. I always admired the
-beauty and clarity of mathematical thinking and after being introduced
-to the paradigm of functional programming, I felt the second "aha"
-moment.
+When first encountered with a personal computer in 1982 at the age of 10,
+I felt instantly this wonderful invetion of a human mind will strongly influence my life. During
+the years this enchantment at the first sight turned into a [long lasting
+passion](http://en.wikipedia.org/wiki/Ikigai). 
 
-Besides simplicity, I strongly belive in hard work, in the need of permanent education
-and that word 'giftedness' is mostly a misleading superstisious concept wrapped around the 
-years of passionate deliberate training, abundance of failures, almost pathological self-criticism, stubbornnes, and 
+During the 18 years of my dynamic professional career I developed a strong aversion against 
+the incidental complexity we often tend to introduce when solving real world problems. 
+This is why [the talk about simplicity](http://www.infoq.com/presentations/Simple-Made-Easy) given by Rich Hickey, 
+the creator of [Clojure](http://www.clojure.org) and [Datomic](http://www.datomic.com), 
+immediately resonated with me.
+
+Besides the clarity of thought and simplicity I strongly worship hard work, the need of permanent education
+and I belive that word 'giftedness' is mostly a misleading superstisious concept wrapped around the 
+years of passionate deliberate training, abundance of failures, almost pathological self-criticism, stubbornnes and 
 a bunch of senior giants kindly letting one stand on their shoulders.
 
 I enjoy working with honest, open minded people which value common goals above their individual interests.
 
-[Simplicity might not be easy](http://www.infoq.com/presentations/Simple-Made-Easy) but is well worth the trouble.
-
 I put up [some code examples](GALLERY.md). Some of them are in private repositories, so please create
-github.com and bitbucket.org accounts and let me know your email so I can grant you
-access to private repositories.
+github.com and bitbucket.org accounts and let me know your email so I can grant you the access.
 
 ## Freelance Career
 
@@ -43,32 +40,38 @@ consultant.
 
 ### 2012-2013 Outfit 7
 
-In november I signed a consultancy contract with Ekipa 2 d.o.o.
-(subsidary of Outfit 7). During the next 10 months I worked on several
+During the year of consultancy at Ekipa 2 d.o.o.
+(subsidary of Outfit 7) I worked on several
 projects including:
 
--   online store on shopify
-    ([www.talkingfriends.com](http://www.talkingfriends.com))
+-   online store [www.talkingfriends.com](http://www.talkingfriends.com) built on
+    Shopify's and Shipwire infrastructure.
+
 -   dynamic parts of web site
     [www.tfsuperstar.com](http://www.tfsuperstar.com)
--   design and implementation of online interactive blog
-    (www.talking-ginger.com)
--   synchronisation of orders and delivery information among Amazon,
-    Shopify, Shipwire and internal ERP (Microsoft Nav Dynamics)
--   Automatic email responder.
--   Massive mailing infrastructure to tease customers that abandoned
-    shopping cart on Shopify.
--   Optimizing video playing for Android Web View component.
 
-Languages/technologies: python, javacript/coffescript, twitter
-bootstrap, grunt, odata, wsdl, php, mongodb, mysql and many others.
+-   design and implementation of online interactive blog
+    (www.talking-ginger.com) mostly accsessed from mobile devices,
+
+-   synchronisation of orders and delivery information among Amazon,
+    Shopify, Shipwire and internal ERP (Microsoft Nav Dynamics),
+
+-   automatic email responder,
+
+-   massive mailing infrastructure to tease customers that abandoned
+    shopping cart on Shopify and
+
+-   optimization video playing for Android Web View component.
+
+Languages/technologies: python, javacript/coffescript, jQuery, grunt, 
+  MySQL, Mongo db, odata, wsdl, php, java, Android SDK, social media integration,
+  Linux administration.
 
 ### 2005-2012 Petrol d.d.
 
 I responded to the inquiry for expert in Linux operating system. My
 first project was helping with transition of gas station servers from
-Windows to Linux which was later extended with 2nd stage of
-transitioning of all client computers.
+Windows to Linux which was later followed by client computers.
 
 I ported point-of-sale MFC dependent middleware software to platform
 agnostic pure C++ and making sure it runs reliably on Linux.
