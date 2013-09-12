@@ -36,8 +36,8 @@ a bunch of senior giants kindly letting one stand on their shoulders.
 
 I enjoy working with honest, open minded people which value common goals above their individual interests.
 
-I put up [some code examples](GALLERY.md). Not all repositories are public, so please create
-github.com and bitbucket.org accounts and let me know your email so I can grant you access to the private ones.
+I put up *[some code examples](GALLERY.md)*. Not all repositories are public, so please create
+github.com and bitbucket.org accounts and let me know your email, so I can grant you access to the private ones.
 
 ## Skills cheatsheet
 
@@ -224,9 +224,9 @@ Languages/technologies:  PHP, Java, MySql, Apache
 
 ### 1987/88 Institute "Josef Stefan"
 
-As in highschool I developed a circuit testing application, under mentorshipo of dr. Franc Novak from [Institute Josef Stefan](http://www.ijs.si/ijsw/JSI).
+As in high school I developed a circuit testing application under mentorship of dr. Franc Novak from [Institute Josef Stefan](http://www.ijs.si/ijsw/JSI).
 The application utilised [D-Algorithm](http://www.ece.mcgill.ca/~zzilic//atpg05p2.pdf) to figure out minumum
-set of testing input vectors to test correctnes of a circuit backed in PROM.   
+set of testing input vectors to test correctness of a circuit backed in PROM.   
 
 This minmum test set, if all members pass, ensures that circuit behaves as
 designed with high enough probability thus eliminating the need to test with all possible inputs.

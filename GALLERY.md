@@ -1,11 +1,11 @@
 # Project Showcase
 
-Here is a list of projects, either opensource or I'm in the position to disclose source code.
-It is meant as a quick glimps over my project organisation and codig practices.
+Here is a list of projects, either open source or I'm in the position to disclose source code.
+It is meant as a quick glimps over my project organisation and codig skills.
 
 ## Draagle Client
 
-Draagle Client is a client application for drugs database Draagle. It is written in `javascript`
+Draagle Client is a client application for an online drugs database Draagle. It is written in `javascript`
 and using google closure toolchain for code optimisation. Latest production code is deployed at
 the site [www.draagle.com](http://www.draagle.com)
 
@@ -13,8 +13,8 @@ the site [www.draagle.com](http://www.draagle.com)
 
 Url of the repository: [git@bitbucket.org:akotnik/draagle-client.git](git@bitbucket.org:akotnik/draagle-client.git)
 
-This is a private repository, so please, if ypou want to access it, create account at [bitbucket.org](http:/www.bitbucket.org)
-and send me your email so I can issue Repository invitation for you.
+This is a private repository, so please, create an account at [bitbucket.org](http:/www.bitbucket.org)
+and send me your email so I can grant you acccess.
 
 ## ROA (Register of Obstetrical Analgesias)
 
@@ -46,8 +46,8 @@ iOS and android application using [Adobes's Phonegap](http://phonegap.com/).
 
 Repository url: [https://bitbucket.org/akotnik/diederdas3](https://bitbucket.org/akotnik/diederdas3)
 
-This is a private repository, so please, if ypou want to access it, create account at [bitbucket.org](http:/www.bitbucket.org)
-and send me your email so I can issue Repository invitation for you.
+This is a private repository, so please, create account at [bitbucket.org](http:/www.bitbucket.org)
+and send me your email so I can grant you access.
 
 ## Nonsense
 
@@ -75,7 +75,8 @@ engine and skeleton for android's live wallpaper.
 
 ![Xmass Live Wallpaper](img/xmass-wallpaper.png)
 
-The artwork is proprietary, created by Andrej Dušič, so I can't licence it as open source. 
+The artwork is proprietary, created by Andrej Dušič, so I can't licence it as open source. Please, create
+account at bitbucket.org and let me know your email so I can grant you access.
 
 Url of repositories: 
 
