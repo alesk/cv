@@ -29,7 +29,7 @@ This is why [the talk about simplicity](http://www.infoq.com/presentations/Simpl
 the creator of [Clojure](http://www.clojure.org) and [Datomic](http://www.datomic.com), 
 immediately resonated with me.
 
-Besides the clarity of thought and simplicity I strongly worship hard work and the need of permanent education
+Besides Simplicity and clarity of thought I strongly worship hard work and the need of permanent education
 and I belive that word 'giftedness' is mostly a misleading superstisious concept wrapped around the 
 years of passionate deliberate training, abundance of failures, healhty dose of self-criticism, stubbornnes and 
 a bunch of senior giants kindly letting one stand on their shoulders.
@@ -45,10 +45,10 @@ github.com and bitbucket.org accounts and let me know your email so I can grant 
 |--------|-------|
 |Pet project I'm most proud of| Online drugs database [www.draagle.com](http://www.draagle.com)|
 |Foreign languages| English (fluently), Croatian/Serbian (fluently), German|
-|Programing languages in order of fluency| Javascript/Coffescript, Python, Clojure, ClojureScript, Java, C, Objective C, SQL, Bash scripting, Ruby, C++, Datalog, PHP,  R, Mathlab|
+|Programing languages in order of fluency| Javascript/Coffescript, Python, Clojure/Lisp, ClojureScript, Java, C, Objective C, SQL, Bash scripting, Ruby, C++, C#, PHP, Datalog, Perl, R, Mathlab, Haskell, Erlang, Pascal/Delphi|
 |Familiarity with operating systems| Linux, OSX, Android, iOS, Windows |
-|Databases| Mysql, Postgres Sql, Db2, MS Sql, Mongdodb, Datomic|
-|Other technologies/products| digital security/cryptography, json, EDN, HTML, css, less, sass, nodejs, angulaarjs, XML/XSL, ZeroMQ, RabbitMQ, Websphere MQ, Websphere App Server, Jetty, Lucene, Solr, ElasitcSearch, WSDL, odata, Nginx, Apache Web Server, Google App engine, Amazon s3, Heroku, Karma, Jasmine, Ruby on Rails, Django, Ingenico OS|
+|Databases| Mysql, Postgres Sql, Db2, MS Sql, Mongdodb, Datomic, Paradox, Informix, Access|
+|Other technologies/products| digital security/cryptography, grunt, jQuery, Photoshop, Flash, Illustrator, Google closure tools, json, EDN, HTML, css, less, sass, nodejs, angulaarjs, XML/XSL, ZeroMQ, RabbitMQ, Websphere MQ, Websphere App Server, Jetty, Lucene/Solr/ElasitcSearch, WSDL, odata, Nginx, Apache Web Server, Google App engine, Amazon s3, Heroku, Karma, Jasmine, Ruby on Rails, Django, Ingenico OS|
 
 ## Freelance Career
 
@@ -81,7 +81,7 @@ projects including:
 -   optimization video playing for Android Web View component.
 
 Languages/technologies: python, javacript/coffescript, jQuery, grunt, 
-  MySQL, Mongo db, odata, wsdl, php, java, Android SDK, social media integration,
+  MySQL, Mongodb, odata, wsdl, php, java, Android SDK, social media integration,
   Linux administration.
 
 ### 2005-2012 Petrol d.d.
@@ -190,7 +190,7 @@ Accompanied with 4 pharmacist, we converted and tagged thousands of
 documents and created web client application and web service which is
 used by many doctors and pharmacists on the daily basis.
 
-Languages/technologies: Python/Django, Clojure, MongoDb, Javascript,
+Languages/technologies: Python/Django, Clojure, Mongodb, Javascript,
 XML, Google Closure Tools, Nginx, Memcached
 
 Url: [http://si.draagle.com](http://si.draagle.com)
@@ -222,9 +222,22 @@ internet.
 Languages/technologies:  PHP, Java, MySql, Apache
 
 
+### 1987/88 Institute "Josef Stefan"
+
+As in highschool I developed a circuit testing application, under mentorshipo of dr. Franc Novak from [Institute Josef Stefan](http://www.ijs.si/ijsw/JSI).
+The application utilised [D-Algorithm](http://www.ece.mcgill.ca/~zzilic//atpg05p2.pdf) to figure out minumum
+set of testing input vectors to test correctnes of a circuit backed in PROM.   
+
+This minmum test set, if all members pass, ensures that circuit behaves as
+designed with high enough probability thus eliminating the need to test with all possible inputs.
+
+
 ## Education
 
 University degree in electrical engineering at [Faculty of Electrical Engineering - University of Ljubljana](http://www.fe.uni-lj.si/eng/)
+
+I graduated in 1996 with a thesis from digital image segmentation. I deveoped an algorithm that reconstructs misssing compartment
+boundaries by positioning charged particles upon the remains of the boundaries such as cell walls.
 
 Driving Licence: B/Clean
 
