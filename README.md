@@ -1,6 +1,6 @@
 # Aleš Kotnik - Curriculum Vitae
 
-## Contatc information
+## Contact information
 
 Home address: Ramovševa 65, 1000 Ljubljana, Slovenia
 
@@ -43,12 +43,12 @@ github.com and bitbucket.org accounts and let me know your email so I can grant 
 
 |Category| Skills|
 |--------|-------|
-|Foreign languages| English (fluently), Croatina/Serbian (fluently), German|
-|Programing languages in order of fluency| Javascript/Coffescript, Python, Clojure, Java, C, Objective C, Bash scripting, Ruby, C++, SQL, Datalog, PHP, ClojureScript, R, Mathlab|
+|Pet project I'm most proud of| Online drugs database [www.draagle.com](http://www.draagle.com)|
+|Foreign languages| English (fluently), Croatian/Serbian (fluently), German|
+|Programing languages in order of fluency| Javascript/Coffescript, Python, Clojure, ClojureScript, Java, C, Objective C, SQL, Bash scripting, Ruby, C++, Datalog, PHP,  R, Mathlab|
 |Familiarity with operating systems| Linux, OSX, Android, iOS, Windows |
 |Databases| Mysql, Postgres Sql, Db2, MS Sql, Mongdodb, Datomic|
-|Data transfer protocols| json, edn, xml/xsl|
-|Other technologies/products| ZeroMQ, RabbitMQ, Websphere MQ, Websphere App Server, Jetty, Lucene, Solr, ElasitcSearch, WSDL, odata, Nginx, Apache Web Server, Google App engine, Amazon s3, Heroku, Karma, Jasmine, Ruby on Rails, Django, Ingenico OS|
+|Other technologies/products| digital security/cryptography, json, EDN, HTML, css, less, sass, nodejs, angulaarjs, XML/XSL, ZeroMQ, RabbitMQ, Websphere MQ, Websphere App Server, Jetty, Lucene, Solr, ElasitcSearch, WSDL, odata, Nginx, Apache Web Server, Google App engine, Amazon s3, Heroku, Karma, Jasmine, Ruby on Rails, Django, Ingenico OS|
 
 ## Freelance Career
 
