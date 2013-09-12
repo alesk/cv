@@ -13,8 +13,8 @@ Skype: aleskotnik
 ---
 
 When first encountered with a personal computer in 1982 at the age of 10,
-I felt instantly this wonderful invetion of a human mind will strongly influence my life. During
-the years this enchantment at the first sight turned into a [long lasting
+I felt instantly this wonderful invetion of human mind will strongly influence my life.
+Later this enchantment at the first sight turned into a [long lasting
 passion](http://en.wikipedia.org/wiki/Ikigai). 
 
 During the 18 years of my dynamic professional career I developed a strong aversion against 
@@ -23,7 +23,7 @@ This is why [the talk about simplicity](http://www.infoq.com/presentations/Simpl
 the creator of [Clojure](http://www.clojure.org) and [Datomic](http://www.datomic.com), 
 immediately resonated with me.
 
-Besides the clarity of thought and simplicity I strongly worship hard work, the need of permanent education
+Besides the clarity of thought and simplicity I strongly worship hard work and the need of permanent education
 and I belive that word 'giftedness' is mostly a misleading superstisious concept wrapped around the 
 years of passionate deliberate training, abundance of failures, almost pathological self-criticism, stubbornnes and 
 a bunch of senior giants kindly letting one stand on their shoulders.
