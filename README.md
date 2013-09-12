@@ -19,17 +19,17 @@ Bitbucket: https://bitbucket.org/akotnik
 ---
 
 When first encountered with a personal computer in 1982 at the age of 10,
-I felt instantly this wonderful invetion of human mind will strongly influence my life.
-Later this enchantment at the first sight turned into a [long lasting
+I felt instantly this wonderful invention of a human mind will strongly influence my life.
+Later this enchantment at first sight turned into a [long lasting
 passion](http://en.wikipedia.org/wiki/Ikigai). 
 
-During the 18 years of my dynamic professional career I developed a strong aversion against 
+During the 18 years of my dynamic professional career, I developed a strong aversion against 
 the incidental complexity we often tend to introduce when solving real world problems. 
 This is why [the talk about simplicity](http://www.infoq.com/presentations/Simple-Made-Easy) given by Rich Hickey, 
 the creator of [Clojure](http://www.clojure.org) and [Datomic](http://www.datomic.com), 
 immediately resonated with me.
 
-Besides Simplicity and clarity of thought I strongly worship hard work and the need of permanent education
+Besides simplicity and clarity of thought I strongly worship hard work and the need of permanent education
 and I belive that word 'giftedness' is mostly a misleading superstisious concept wrapped around the 
 years of passionate deliberate training, abundance of failures, healhty dose of self-criticism, stubbornnes and 
 a bunch of senior giants kindly letting one stand on their shoulders.

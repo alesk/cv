@@ -1,7 +1,7 @@
 # Project Showcase
 
 Here is a list of projects, either open source or I'm in the position to disclose source code.
-It is meant as a quick glimps over my project organisation and codig skills.
+It is meant as a quick glimpse over my project organisation and coding skills.
 
 ## Draagle Client
 
