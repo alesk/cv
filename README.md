@@ -50,6 +50,10 @@ github.com and bitbucket.org accounts and let me know your email, so I can grant
 |Databases| Mysql, Postgres Sql, Db2, MS Sql, Mongdodb, Datomic, Paradox, Informix, Access|
 |Other technologies/products| digital security/cryptography, grunt, jQuery, Photoshop, Flash, Illustrator, Google closure tools, json, EDN, HTML, css, less, sass, nodejs, angulaarjs, XML/XSL, ZeroMQ, RabbitMQ, Websphere MQ, Websphere App Server, Jetty, Lucene/Solr/ElasitcSearch, WSDL, odata, Nginx, Apache Web Server, Google App engine, Amazon s3, Heroku, Karma, Jasmine, Ruby on Rails, Django, Ingenico OS, git, subversion, mercurial, Unix System Administration, networking, iptables|
 
+## Online education
+
+30.4.2014 [Data Analysis and Statistical Inference](https://www.coursera.org/records/weHDak33NYKWhTaR) (Received [certificate with distinction](https://www.coursera.org/maestro/api/certificate/get_certificate?verify-code=U3L3M3SMKV))|
+
 ## Freelance Career
 
 In 2002 I started working as freelance developer, content creator and
