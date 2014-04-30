@@ -52,7 +52,7 @@ github.com and bitbucket.org accounts and let me know your email, so I can grant
 
 ## Online education
 
-30.4.2014 [Data Analysis and Statistical Inference](https://www.coursera.org/records/weHDak33NYKWhTaR) (Received [certificate with distinction](https://www.coursera.org/maestro/api/certificate/get_certificate?verify-code=U3L3M3SMKV))|
+30.4.2014 [Data Analysis and Statistical Inference](https://www.coursera.org/records/weHDak33NYKWhTaR) (Received [certificate with distinction](https://www.coursera.org/maestro/api/certificate/get_certificate?verify-code=U3L3M3SMKV))
 
 ## Freelance Career
 
