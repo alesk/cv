@@ -45,7 +45,8 @@ github.com and bitbucket.org accounts and let me know your email, so I can grant
 |--------|-------|
 |Pet project I'm most proud of| Online drugs database [www.draagle.com](http://www.draagle.com)|
 |Foreign languages| English (fluently), Croatian/Serbian (fluently), German|
-|Programing languages in order of fluency| Javascript/Coffescript, Python, Clojure/Lisp, ClojureScript, Java, C, Objective C, SQL, Bash scripting, Ruby, C++, C#, PHP, Datalog, Perl, R, Mathlab, Haskell, Erlang, Pascal/Delphi|
+|Statistics| firm understanding of statistical inference methods and proficient with R|
+|Programing languages in order of fluency| Javascript/Coffescript, Python, Clojure/Lisp, ClojureScript, Scala, Java, C, Objective C, SQL, Bash scripting, Ruby, C++, C#, PHP, Datalog, Perl, R, Mathlab, Haskell, Erlang, Pascal/Delphi|
 |Familiarity with operating systems| Linux, OSX, Android, iOS, Windows |
 |Databases| Mysql, Postgres Sql, Db2, MS Sql, Mongdodb, Datomic, Paradox, Informix, Access|
 |Other technologies/products| digital security/cryptography, grunt, jQuery, Photoshop, Flash, Illustrator, Google closure tools, json, EDN, HTML, css, less, sass, nodejs, angulaarjs, XML/XSL, ZeroMQ, RabbitMQ, Websphere MQ, Websphere App Server, Jetty, Lucene/Solr/ElasitcSearch, WSDL, odata, Nginx, Apache Web Server, Google App engine, Amazon s3, Heroku, Karma, Jasmine, Ruby on Rails, Django, Ingenico OS, git, subversion, mercurial, Unix System Administration, networking, iptables|
@@ -65,14 +66,9 @@ During the year of consultancy at Ekipa 2 d.o.o.
 (subsidary of Outfit 7) I worked on several
 projects including:
 
--   online store [www.talkingfriends.com](http://www.talkingfriends.com) built on
-    Shopify's and Shipwire infrastructure.
+-   online store built on Shopify's and Shipwire infrastructure
 
--   dynamic parts of web site
-    [www.tfsuperstar.com](http://www.tfsuperstar.com)
-
--   design and implementation of online interactive blog
-    (www.talking-ginger.com) mostly accsessed from mobile devices,
+-   dynamic parts of different web sites
 
 -   synchronisation of orders and delivery information among Amazon,
     Shopify, Shipwire and internal ERP (Microsoft Nav Dynamics),
