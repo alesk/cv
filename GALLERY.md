@@ -60,14 +60,6 @@ code is properly annotated.
 
 Repository url: [https://github.com/alesk/nonsense](https://github.com/alesk/nonsense)
 
-## Android Videoplayer
-
-This is a really tiny bit of code explaining the mechaism of launching external youtube application to play videos in
-androdi's WebView. The projectd evolved from the need to improve user experience wehn browsing content rich site within
-android native application.
-
-Repository url: [github.com/alesk/videobrowser](https://github.com/alesk/videobrowser)
-
 ## Xmass Live Wallpaper
 
 This is Live Android Wallpaper featuring Xmass Fireplace Sceene. It is written in Java and is composed from tiny animation
